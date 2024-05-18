@@ -55,7 +55,7 @@ your build by using the folling command(s):
 To re-build the Invaders.jar file, you must be in the 
 directory/folder of where you extracted the Invaders.jar
 files.  Next type in the following:
-   jar --create --file Invaders-rb.jar \
+   jar --create --file Invaders.jar \
        --main-class com.sgodsell.invaders.SpaceInvaders \
        README.txt com images src sounds
 
