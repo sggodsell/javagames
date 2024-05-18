@@ -7,5 +7,6 @@ To execute this jar, type in the following:
    
 To change the game setting click on the settings cog wheel up at the top, right.
 Users can change the alien number of rows, and columns, as well as the maximum
-number of shots aliens can fire at one time.  The barriers can also be removed,
-and more.
+number of shots aliens can fire at one time.  You can also change the maximum
+number of shots that a player can shot each time.  The barriers can also be
+removed, as well as enable/disable sound, and more.
